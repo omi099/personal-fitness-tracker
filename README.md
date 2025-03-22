@@ -1,5 +1,8 @@
-# Personal Fitness Tracker
-
-A Python-based application for tracking and analyzing fitness activities.
-
-Built with Streamlit, SQLite, and scikit-learn.
+title: Personal Fitness Tracker
+emoji: 🏆
+colorFrom: indigo
+colorTo: pink
+sdk: streamlit
+sdk_version: 1.43.2
+app_file: app.py
+pinned: false
